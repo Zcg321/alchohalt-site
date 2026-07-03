@@ -1,0 +1,2 @@
+# Serve/store text files with LF line endings for consistency.
+* text=auto eol=lf
